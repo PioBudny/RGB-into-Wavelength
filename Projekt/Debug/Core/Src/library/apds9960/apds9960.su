@@ -1,0 +1,4 @@
+../Core/Src/library/apds9960/apds9960.c:3:5:apds9960_init	40	static
+../Core/Src/library/apds9960/apds9960.c:36:9:apds9960_read_status	40	static
+../Core/Src/library/apds9960/apds9960.c:43:5:apds9960_intr_clear	40	static
+../Core/Src/library/apds9960/apds9960.c:51:5:apds9960_read_colors	48	static

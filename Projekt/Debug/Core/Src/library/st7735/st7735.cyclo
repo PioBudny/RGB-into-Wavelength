@@ -1,0 +1,10 @@
+../Core/Src/library/st7735/st7735.c:75:13:ST7735_Reset	1
+../Core/Src/library/st7735/st7735.c:81:13:ST7735_WriteCommand	1
+../Core/Src/library/st7735/st7735.c:86:13:ST7735_WriteData	1
+../Core/Src/library/st7735/st7735.c:91:13:ST7735_ExecuteCommandList	3
+../Core/Src/library/st7735/st7735.c:111:13:ST7735_SetAddressWindow	1
+../Core/Src/library/st7735/st7735.c:126:6:ST7735_Init	1
+../Core/Src/library/st7735/st7735.c:133:13:ST7735_WriteChar	4
+../Core/Src/library/st7735/st7735.c:152:6:ST7735_WriteString	5
+../Core/Src/library/st7735/st7735.c:177:6:ST7735_FillRectangle	7
+../Core/Src/library/st7735/st7735.c:202:6:ST7735_FillScreen	1
