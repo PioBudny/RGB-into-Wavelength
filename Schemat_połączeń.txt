@@ -1,0 +1,21 @@
+Stlink - blackpill:
+GND - GND
+3v3 - 3v3
+SWSCK -SWSCK
+SWDIO-DIO
+
+apds9960 - blackpill:
+UL - 3V3
+GND - GND
+SDA - B7
+SCL - B6
+
+ST7735 - blackpill:
+VCC - 3V3
+GND - GND
+CS - B14
+RESET - B12
+A0 - B13
+SDA - A7
+SCK - A5
+LED - 3V3
